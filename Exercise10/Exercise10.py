@@ -135,9 +135,8 @@ def play_wordle():
             print('##############################################################')
             print(f'       HURRAY THE WORD WAS: {randomWord.upper()} ')
             print('##############################################################')
-            print('YOU ARE A HUMAN GENIUS! YOU SHOULD BE FEARED AND RESPECTED!!!')
+            print('CONGRATULATIONS!!!YOU WON')
             print('Give yourself a pat on the shoulder :)')
-            print("That student debt is finally paying off!!!")
             print("WANNA PLAY AGAIN?")
             break
         else:
